@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{
+	background-color: aliceblue;
+	background-image:url(../../Downloads/michaeldale.png);
+}
+
+h1{
+	font-size:400%;
+}
+h2{
+	font-size:300%;
+	text-decoration:none;
+}
+p{
+	font-size: 200%;
+}
+
+h3{
+	text-align:center;
+	font-size: 35px;
+}
+
+h4{
+	text-align: center;
+	font-size: 30px;
+}
+
+
+
+.logFal{
+	border-left-style:solid;
+	margin-left:800px;
+	padding-left: 40px;
+	border-width: thick;
+	font-family:Impact;
+	letter-spacing: 150%;
+	margin-top:150px;
+	margin-bottom: auto;
+	color: white;
+	
+}
+
+.logFalA{
+	border-left-style: solid;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top: 200px;
+	
+}
+
+table{
+	margin-top: 150px;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: Impact;
+}
+
+td{
+	border-style: inset;
+	border-width: medium;
+	background-color:gray;
+	margin-left:100px;
+	margin-right: 100px;
+	padding-left:75px;
+	padding-right:75px;
+}
+
+
+
+.tablet{
+	text-decoration:none;
+	color:black;
+}
+
+a{
+	text-decoration:none;
+	color: black;
+	text-align:center;
+}
+
+
+

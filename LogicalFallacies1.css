@@ -1,0 +1,101 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{
+	background-color: #383838;
+	background-image:url("../../Downloads/Copy of Copy of genetic (1).png");
+	background-repeat:no-repeat;
+	font-family:Impact;
+	color:white;
+}
+
+h1{
+	font-size:400%;
+	
+}
+h2{
+	font-size:300%;
+	text-decoration:none;
+	text-align:center;
+}
+p{
+	font-size: 150%;
+	text-align:right;
+	margin-right: 200px;
+	font-family:sans-serif;
+}
+
+h3{
+	text-align:center;
+	font-size: 35px;
+}
+
+h4{
+	margin-top: 200px;
+	
+	font-size: 30px;
+	font-family: sans-serif;
+}
+
+h5{
+	font-family: sans-serif;
+	font-size:20px;
+	
+	
+}
+
+h6{
+	font-size: 20px;
+	color:white;
+}
+
+
+
+.logFalA{
+	border-left-style: solid;
+	margin-left:200px;
+	margin-right: 700px;
+	margin-top: 200px;
+	font-family:Impact;
+	padding:40px;
+	color:white;
+}
+
+.logFalB{
+	margin-top: 200px;
+	margin-bottom:150px;
+}
+
+.logFalC{
+	margin-right: 200px;
+	margin-left: 200px;
+	text-align:left;
+}
+
+table{
+	margin-top: 150px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+td{
+	border-style: inset;
+	border-width: medium;
+	background-color:gray;
+	margin-left:100px;
+	margin-right: 100px;
+	
+}
+
+.tablet{
+	text-decoration:none;
+	color:black;
+}
+
+a{
+	text-decoration:none;
+	color: white;
+	border-style:solid;
+}
